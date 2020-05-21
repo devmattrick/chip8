@@ -1,6 +1,5 @@
-use std::io;
-use std::io::prelude::*;
 use std::fs::File;
+use std::io::prelude::*;
 
 mod chip8;
 
